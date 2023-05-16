@@ -1,0 +1,34 @@
+19:07:02  [main] 	Initializing Control Panel
+19:07:02  [main] 	Windows Version:  Home  64-bit
+19:07:02  [main] 	XAMPP Version: 8.2.4
+19:07:02  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:07:02  [main] 	You are not running with administrator rights! This will work for
+19:07:02  [main] 	most application stuff but whenever you do something with services
+19:07:02  [main] 	there will be a security dialogue or things will break! So think 
+19:07:02  [main] 	about running this application with administrator rights!
+19:07:02  [main] 	XAMPP Installation Directory: "d:\web\"
+19:07:02  [main] 	Checking for prerequisites
+19:07:04  [main] 	All prerequisites found
+19:07:04  [main] 	Initializing Modules
+19:07:04  [Tomcat] 	Problem detected!
+19:07:04  [Tomcat] 	Port 8080 in use by "C:\oraclexe\app\oracle\product\11.2.0\server\BIN\tnslsnr.exe"!
+19:07:04  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+19:07:04  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+19:07:04  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+19:07:04  [main] 	Starting Check-Timer
+19:07:04  [main] 	Control Panel Ready
+19:07:13  [Apache] 	Attempting to start Apache app...
+19:07:13  [Apache] 	Status change detected: running
+19:07:21  [mysql] 	Attempting to start MySQL app...
+19:07:21  [mysql] 	Status change detected: running
+21:47:43  [mysql] 	Attempting to stop MySQL app...
+21:47:43  [mysql] 	Status change detected: stopped
+21:47:45  [mysql] 	Attempting to start MySQL app...
+21:47:45  [mysql] 	Status change detected: running
+21:48:24  [Apache] 	Attempting to stop Apache (PID: 6720)
+21:48:24  [Apache] 	Attempting to stop Apache (PID: 10808)
+21:48:24  [Apache] 	Status change detected: stopped
+22:17:10  [Apache] 	Status change detected: running
+23:48:17  [main] 	Deinitializing Modules
+23:48:17  [main] 	Deinitializing Control Panel
+
